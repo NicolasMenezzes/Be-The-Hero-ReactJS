@@ -13,6 +13,7 @@
 .profile-container header span {
     font-size: 20px;
     margin-left: 24px;
+    color: #F0F8FF;
 }
 
 .profile-container header img {
@@ -42,6 +43,7 @@
 .profile-container h1 {
     margin-top: 80px;
     margin-bottom: 24px;
+    color: #F0F8FF;
 }
 
 .profile-container ul {
@@ -52,11 +54,11 @@
 }
 
 .profile-container ul li {
-    background: #dbdbdb;
+    background: #1D344B;
     padding: 24px;
     border-radius: 8px;
     position: relative;
-    box-shadow: 0 0 100px rgba(0,  0, 0, 0.1);
+    box-shadow: 0 0 100px rgba(255, 255, 255, 0.1);
 }
 
 .profile-container ul li button{
@@ -75,7 +77,7 @@
     text-transform: uppercase;
     display: block;
     margin-bottom: 16px;
-    color: #2c2c31;
+    color: #F0F8FF;
 }
 
 .profile-container ul li p + strong {
@@ -83,7 +85,7 @@
 }
 
 .profile-container ul li p {
-    color: #484850;
+    color: #CDCECF;
     line-height: 21px;
     font-size: 15px;
 }

@@ -10,7 +10,7 @@
 
 body {
     font: 400 14px Baloo Da , sans-serif;
-    background-color: rgb(190, 190, 190);
+    background-color: #15202B;
     -webkit-font-smoothing: antialiased;
 
 }
@@ -69,7 +69,7 @@ form textarea {
     display: flex;
     align-items: center;
     margin-top: 40px;
-    color: rgb(32, 32, 32);
+    color: #F0F8FF;
     font-size: 18px;
     font-weight: 500;
     transition: opacity 0.2s;

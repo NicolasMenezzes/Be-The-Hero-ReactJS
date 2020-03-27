@@ -11,8 +11,8 @@
 .register-container .content{
     width: 100%;
     padding: 96px;
-    background: #dbdbdb;
-    box-shadow: 0 0 100px rgba(0,  0, 0, 0.4);
+    background: #1D344B;
+    box-shadow: 0 0 100px rgba(255, 255, 255, 0.1);
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
@@ -25,13 +25,13 @@
 }
 
 .register-container .content section h1 {
-    color: rgb(32, 32, 32);
+    color: #F0F8FF;
     margin: 64px 0 32px;
     font-size: 32px;
 }
 
 .register-container .content section p {
-    color: #737380;
+    color: #CDCECF;
     font-size: 18px;
     line-height: 32px;
 }
